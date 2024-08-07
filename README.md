@@ -1,0 +1,1 @@
+I am an AI enthusiast with a keen interest in data analytics and visualizations. As an intern at Teachnook, I gained experience in data preprocessing, exploratory data analysis (EDA), and creating data visualizations. I am proficient in leveraging data-driven insights to solve complex problems and enhance business strategies.
